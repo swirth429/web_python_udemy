@@ -1,0 +1,18 @@
+-- VERSION_4
+-- START DISKCACHE_2
+D:\Udemy\Python Web Apps\Lesson3\.metadata\.plugins\org.eclipse.core.resources\.projects\terminal_blog\com.python.pydev.analysis\v2_indexcache
+app|1508392846029806000|D:\Udemy\Python Web Apps\Lesson3\terminal_blog\src\app.py
+database|1508826740034520000|D:\Udemy\Python Web Apps\Lesson3\terminal_blog\src\database.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=app
+-- END DICTIONARY
+-- START TREE 1
+2
+__a|1|__author__!11@
+pos|2|post!11@post2!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

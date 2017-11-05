@@ -1,0 +1,10 @@
+__author__ = 'swirth'
+
+import requests
+from bs4 import BeautifulSoup
+
+request = requests.get("https://www.newegg.com/Product/Product.aspx?Item=N82E16819117795")
+
+#<li class="price-current" data-reactid=".2.3.1.2">$<strong>969</strong><sup>.99</sup></li>
+
+print(request.content)

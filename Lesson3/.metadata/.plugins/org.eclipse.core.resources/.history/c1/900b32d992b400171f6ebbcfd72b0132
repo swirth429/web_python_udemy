@@ -1,0 +1,9 @@
+from models.post import Post
+
+__author__ = 'swirth'
+
+post = Post()
+post2 = Post()
+
+print(post.content)
+print(post2.content)
